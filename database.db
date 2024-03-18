@@ -1,1 +1,2 @@
 use dabase test;
+create tabase test;
