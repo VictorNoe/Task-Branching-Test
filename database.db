@@ -1,2 +1,3 @@
 use dabase test;
 create tabase test;
+delete database test;
